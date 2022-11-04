@@ -1,0 +1,74 @@
+/* 
+    Created on : 18/11/2021, 01:09:21 PM
+    Author     : lenovo
+*/
+.body{
+    background-image: url('https://i.bstr.es/highmotor/2020/12/concesionario-ferrari-2.jpg');
+   -webkit-background-size: cover;
+    height: 650px;
+    display: flex;
+    justify-content: center;
+}
+.p{
+    text-align: center;
+    font-weight: 700;
+    font-size: 30px;
+}
+.divi{
+    width: 300px;
+    align-items: center;
+    align-content: center;
+    align-self: center;
+    text-align: center;
+    background: white;
+    padding: 20px 30px;
+    box-shadow: 0 0 6px 0 rgba(255, 255, 255, 0,8);
+    border-radius: 10px;
+    border-style: solid;
+    transform: translateY(50%);
+}
+
+.divs{
+    width: 800px;
+    align-items: center;
+    align-content: center;
+    align-self: center;
+    text-align: center;
+    background: white;
+    padding: 20px 30px;
+    box-shadow: 0 0 6px 0 rgba(255, 255, 255, 0,8);
+    border-radius: 10px;
+    border-style: solid;
+    transform: translateY(0%);
+}
+.select{
+    width: 250px;
+    height: 60px;
+    font-size: 15px;
+    text-align: center;
+    padding: 20px;
+}
+input{
+    font-size: 15px;
+    padding: 10px 10px 10px 5px;
+    border-radius: 7px;
+    width: 230px;
+    height: 30px;
+}
+.boton{
+    width: 200px;
+    height: 50px;
+    color: white;
+    font-family: sans-serif;
+    font-size: 20px;
+    border-color: #4950DC;
+    background: #4950DC;
+}
+.azul{
+    color: #4950DC;
+    
+.azul{
+    color: #4950DC;
+}
+    
+}
