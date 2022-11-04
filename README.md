@@ -4,8 +4,16 @@ Aplicación web que te permite ver diferentes concesionarios, que autos tiene ca
 
 - Se solicita el concesionario que se desea ver:
 
-- Se observan los autos que estan en el concesionario:
+<div id="img1" align="center">
+  <image src="https://github.com/andresFLZ/Concesionario/blob/main/img/Interfaz_1.PNG" alt="Elección concesionario">
+</div>
 
+- Se observan los autos que estan en el concesionario:
+  
+<div id="img2" align="center">
+  <image src="https://github.com/andresFLZ/Concesionario/blob/main/img/Interfaz_2.PNG" alt="Autos en concesionario">
+</div>
+  
 ## Tecnologías usadas
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
